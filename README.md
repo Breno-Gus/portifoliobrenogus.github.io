@@ -13,7 +13,7 @@ Atualmente estudo e aprimoro minhas habilidades nas áreas de **desenvolvimento 
 📍 **Local:** Brasil  
 📧 **Contato:** [brenogustavo953@gmail.com]  
 🔗 **LinkedIn:** [linkedin.com/in/brenogustavo-as](https://www.linkedin.com/in/brenogustavo-as/)  
-🌐 **Portfólio online:** [brenosoares.github.io](https://brenosoares.github.io)
+🌐 **Portfólio online:** [brenosoares.github.io](https://breno-gus.github.io/)
 
 ---
 
