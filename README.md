@@ -11,8 +11,8 @@ Atualmente estudo e aprimoro minhas habilidades nas áreas de **desenvolvimento 
 
 🎯 **Objetivo:** Atuar como desenvolvedor full stack, contribuindo com soluções criativas e funcionais.  
 📍 **Local:** Brasil  
-📧 **Contato:** [seu-email@email.com]  
-🔗 **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
+📧 **Contato:** [brenogustavo953@gmail.com]  
+🔗 **LinkedIn:** [linkedin.com/in/brenogustavo-as](https://www.linkedin.com/in/brenogustavo-as/)  
 🌐 **Portfólio online:** [brenosoares.github.io](https://brenosoares.github.io)
 
 ---
